@@ -24,7 +24,7 @@ Explanation:
 - `Apr 7 10:42:15` — Timestamp
 - `ubuntu` — Hostname
 - `sshd[12345]` — Service name and process ID
-- `Failed password for invalid user admi`n — Failed login attempt
+- `Failed password for invalid user admin` — Failed login attempt
 - `from 192.168.1.100` — Source IP address
 - `port 54321` — Source port
 - `ssh2` — Protocol version
