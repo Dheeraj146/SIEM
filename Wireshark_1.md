@@ -39,8 +39,3 @@ The objective of this lab is to introduce students to **Wireshark**, a powerful 
 
 ---
 
-## 📸 **Submission**
-Submit screenshots showing:
-- Create a New Profile Name "SOC Analyst" and share the snapshot
-- Create a display filter to capture ICMP traffic and share the snapshot
-- Create a capture filter to capture ICMP traffic and share the snapshot
